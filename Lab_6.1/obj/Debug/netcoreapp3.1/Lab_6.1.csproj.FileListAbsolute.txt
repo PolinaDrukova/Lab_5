@@ -1,0 +1,16 @@
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\bin\Debug\netcoreapp3.1\Lab_6.1.exe
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\bin\Debug\netcoreapp3.1\Lab_6.1.deps.json
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\bin\Debug\netcoreapp3.1\Lab_6.1.runtimeconfig.json
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\bin\Debug\netcoreapp3.1\Lab_6.1.runtimeconfig.dev.json
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\bin\Debug\netcoreapp3.1\Lab_6.1.dll
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\bin\Debug\netcoreapp3.1\Lab_6.1.pdb
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.csproj.AssemblyReference.cache
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6._1.Form1.resources
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.csproj.GenerateResource.cache
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.AssemblyInfoInputs.cache
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.AssemblyInfo.cs
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.csproj.CoreCompileInputs.cache
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.dll
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.pdb
+C:\Users\Полина\source\repos\Lab_6.1\Lab_6.1\obj\Debug\netcoreapp3.1\Lab_6.1.genruntimeconfig.cache
